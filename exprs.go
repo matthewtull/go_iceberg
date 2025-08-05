@@ -14,6 +14,7 @@
 // KIND, either express or implied.  See the License for the
 // specific language governing permissions and limitations
 // under the License.
+// Package iceberg provides types and functions for working with Apache Iceberg tables.
 
 package iceberg
 
