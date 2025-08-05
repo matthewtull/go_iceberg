@@ -15,6 +15,7 @@
 // specific language governing permissions and limitations
 // under the License.
 // Package iceberg provides types and functions for working with Apache Iceberg tables.
+
 package iceberg
 
 import (
